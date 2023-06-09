@@ -1,0 +1,18 @@
+Image File: C:\Users\stim1\Pictures\God of War\ScreenShot-2022-3-18_22-52-13.png
+Puzzle Pieces:
+Row: 0, Col: 0, X: 0.0, Y: 0.0
+Row: 0, Col: 1, X: 200.0, Y: 0.0
+Row: 0, Col: 2, X: 400.0, Y: 0.0
+Row: 0, Col: 3, X: 600.0, Y: 0.0
+Row: 1, Col: 0, X: 0.0, Y: 200.0
+Row: 1, Col: 1, X: 200.0, Y: 200.0
+Row: 1, Col: 2, X: 400.0, Y: 200.0
+Row: 1, Col: 3, X: 600.0, Y: 200.0
+Row: 2, Col: 0, X: 0.0, Y: 400.0
+Row: 2, Col: 1, X: 200.0, Y: 400.0
+Row: 2, Col: 2, X: 400.0, Y: 400.0
+Row: 2, Col: 3, X: 600.0, Y: 400.0
+Row: 3, Col: 0, X: 0.0, Y: 600.0
+Row: 3, Col: 1, X: 200.0, Y: 600.0
+Row: 3, Col: 2, X: 400.0, Y: 600.0
+Row: 3, Col: 3, X: 600.0, Y: 600.0
